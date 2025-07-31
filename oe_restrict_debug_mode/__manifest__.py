@@ -30,6 +30,7 @@
             'oe_restrict_debug_mode/static/src/core/debug/restrict_debug.scss',
         ],
     },
+    'license': 'AGPL-3',
     'images': ['static/description/banner.gif'],
     'installable': True,
     'application': False,
